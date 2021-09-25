@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lalit
 - 👀 I’m interested in android development, web dev
 - 🌱 I’m currently getting my hold on programming languages
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on video editing
 - 📫 How to reach me ...
 
 <!---
